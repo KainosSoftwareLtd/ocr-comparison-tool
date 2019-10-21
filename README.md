@@ -103,7 +103,6 @@ To install this tool to your local machine for comparison purposes, follow the i
 
 git clone <HTTPS URL>/ocr_comparison_tool.git
 
-
 ```
 
 2. Move into the ocr_comparison_tool directory
