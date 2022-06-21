@@ -12,7 +12,7 @@ googleapis-common-protos==1.6.0
 grpcio==1.23.0
 idna==2.8
 jmespath==0.9.4
-numpy==1.17.2
+numpy==1.22.0
 pandas==0.25.1
 protobuf==3.9.1
 pyasn1==0.4.7
