@@ -9,7 +9,7 @@ google-auth==1.6.3
 google-cloud==0.34.0
 google-cloud-vision==0.39.0
 googleapis-common-protos==1.6.0
-grpcio==1.23.0
+grpcio==1.53.0
 idna==2.8
 jmespath==0.9.4
 numpy==1.17.2
